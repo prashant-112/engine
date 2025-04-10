@@ -1,0 +1,28 @@
+[
+  {
+    "productId": "P001",
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 1299.99,
+    "specifications": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "inStock": true,
+    "tags": ["laptop", "electronics", "computer"]
+  },
+  {
+    "productId": "P002",
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "price": 199.99,
+    "specifications": {
+      "batteryLife": "20 hours",
+      "connectivity": "Bluetooth 5.0",
+      "noiseCancellation": true
+    },
+    "inStock": false,
+    "tags": ["headphones", "audio", "wireless"]
+  }
+] 
